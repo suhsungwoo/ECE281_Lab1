@@ -53,3 +53,7 @@ uploaded into https://github.com/suhsungwoo/ECE281_Lab1_8bit
 #8) 00000001 - 11111111
 #9) 00100010 - 11011110
 #10) 10100101 - 01011011
+
+
+#DOCUMENTATION
+Got help from Dr. Neebel and Cadet Weisner helped me figure out why my table for 8-bit wasn't working. Cadet Weisner realized in my VHDL I wasn't using the directed IEEE. Dr. Neebel helped me figure out lines 45-47 on VHDL. Which was the main syntax for the whole project. 
