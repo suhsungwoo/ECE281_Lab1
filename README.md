@@ -10,17 +10,8 @@ ECE281_Lab1
 
 ![Screenshot](k-map_diagram.jpg)
 
-#Step 1
-Created Truth table
+#ISlim
+ISlim screenshot website https://github.com/suhsungwoo/ECE281_Lab1/blob/master/Screenshot.JPG 
 
-#Step 2
-Created K-map
-
-#Step 3
-Created .vhd files
- 
-#Step 4
-connected board and worked
-
-#Step 5
-Trying to make 8-bit
+#Physical Lab
+Checked.
