@@ -15,3 +15,8 @@ ISlim screenshot website https://github.com/suhsungwoo/ECE281_Lab1/blob/master/S
 
 #Physical Lab
 Checked.
+
+#SOP
+
+![Screenshot](SOP.jpg)
+
