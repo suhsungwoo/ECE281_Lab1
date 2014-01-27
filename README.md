@@ -9,3 +9,9 @@ ECE281_Lab1
 #K-map screenshot
 
 ![Screenshot](k-map_diagram.jpg)
+
+#ISlim
+ISlim screenshot website https://github.com/suhsungwoo/ECE281_Lab1/blob/master/Screenshot.JPG 
+
+#Physical Lab
+Checked.
