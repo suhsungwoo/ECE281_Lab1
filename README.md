@@ -54,6 +54,7 @@ uploaded into https://github.com/suhsungwoo/ECE281_Lab1_8bit
 #9) 00100010 - 11011110
 #10) 10100101 - 01011011
 
+The 8 digit values on the left represents original 8 bit value. The values on the right represents the converted values. the 1's are represented by light turned on and 0's are represented by light turned off on the board. 
 
 #DOCUMENTATION
 Got help from Dr. Neebel and Cadet Weisner helped me figure out why my table for 8-bit wasn't working. Cadet Weisner realized in my VHDL I wasn't using the directed IEEE. Dr. Neebel helped me figure out lines 45-47 on VHDL. Which was the main syntax for the whole project. 
